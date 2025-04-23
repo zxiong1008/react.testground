@@ -23,7 +23,7 @@ jobs:
         npm install
         npm run build
 
-    - name: Deploy to Azure Web App
+    - name: Deploy React to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
         app-name: reacttestground-bmb0e0gkb7cabwf2
