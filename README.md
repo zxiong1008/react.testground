@@ -2,16 +2,22 @@
 [React.TestGround](https://thankful-dune-0f1d0c810.6.azurestaticapps.net/)
 
 # How I approach this project
-# Step 1: Create an empty React project in VS Code that will build and run
-# Step 2: Post that source code to GitHub
-# Step 3: Create a resource on Azure
-# Step 4: Create a CICD pipeline to deploy the repo's master branch to the website
+Step 1: Create an empty React project in VS Code that will build and run
+
+Step 2: Post that source code to GitHub
+
+Step 3: Create a resource on Azure
+
+Step 4: Create a CICD pipeline to deploy the repo's master branch to the website
 
 # Next steps
-# Step 5: Update UI to be profile app
-# Step 6: Add widgets
-# Step 7: Call API endpoints to load some data
-# Step 8: AI integration
+Step 5: Update UI to be profile app
+
+Step 6: Add widgets
+
+Step 7: Call API endpoints to load some data
+
+Step 8: AI integration
 
 # Getting Started with Create React App
 
