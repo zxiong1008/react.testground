@@ -1,5 +1,7 @@
 # View the react website hosted here
-[React.TestGround](https://thankful-dune-0f1d0c810.6.azurestaticapps.net/)
+[React.TestGround](https://thankful-dune-0f1d0c810.6.azurestaticapps.net/) was deployed using CI/CD with [YAML configuration](https://github.com/zxiong1008/react.testground/blob/master/.github/workflows/azure-static-web-apps-thankful-dune-0f1d0c810.yml).
+
+
 
 # How I approach this project
 Step 1: Create an empty React project in VS Code that will build and run
